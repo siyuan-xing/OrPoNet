@@ -1,5 +1,7 @@
 # OrPoNet: Orthogonal Polynomial Networks
 
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24326168.svg)](https://doi.org/10.5281/zenodo.24326168)
+
 **OrPoNet: An Interpretable and Scalable Neuralization of Polynomial Expansions**
 
 This repository contains the core PyTorch implementation of OrPoNet and selected
