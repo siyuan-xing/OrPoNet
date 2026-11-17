@@ -1,0 +1,10 @@
+# Shared runtime and notebook dependencies (Python 3.10+).
+torch
+numpy
+scipy
+pandas
+matplotlib
+sobol_seq==0.2.0
+ipython
+ipykernel
+jupyterlab
