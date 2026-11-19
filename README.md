@@ -2,7 +2,11 @@
 
 [![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24326168.svg)](https://doi.org/10.5281/zenodo.24326168)
 
-**OrPoNet: An Interpretable and Scalable Neuralization of Polynomial Expansions**
+**[OrPoNet: An Interpretable and Scalable Neuralization of Polynomial Expansions](https://doi.org/10.1016/j.jcp.2026.115599)**
+
+Siyuan Xing and Daniel M. Tartakovsky  
+*Journal of Computational Physics*, article in press (2026).  
+**Paper DOI:** [10.1016/j.jcp.2026.115599](https://doi.org/10.1016/j.jcp.2026.115599)
 
 This repository contains the core PyTorch implementation of OrPoNet and selected
 examples from the paper.
@@ -123,7 +127,11 @@ If you use OrPoNet in your research, please cite:
   author = {Xing, Siyuan and Tartakovsky, Daniel M.},
   title = {{OrPoNet}: An Interpretable and Scalable Neuralization of Polynomial Expansions},
   journal = {Journal of Computational Physics},
-  note = {Accepted for publication}
+  year = {2026},
+  pages = {115599},
+  doi = {10.1016/j.jcp.2026.115599},
+  url = {https://www.sciencedirect.com/science/article/pii/S0021999126009472},
+  note = {Article in press}
 }
 ```
 
